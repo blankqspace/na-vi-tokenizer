@@ -1,13 +1,17 @@
 <div align="center">
 
-<a href="https://www.fontspace.com/category/avatar">
-<img src="https://see.fontimg.com/api/rf5/z8MA1/YzQwYzk0Y2M2OWZhNGE5Njg1ZDE2ZjZmOWYxNDYwZDAudHRm/TkEnVkkgVE9LRU5JWkVS/toruksc-regular.png?r=fs&h=83&w=1250&fg=FFFFFF&bg=F77474&tb=1&s=66" alt="Avatar fonts">
-</a>
+<div style="position: relative; display: inline-block;">
+  <img src="https://i.pinimg.com/736x/9c/3f/6b/9c3f6b16211b7035dac421960104c46b.jpg" alt="Na'vi Background" width="800">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+    <h1 style="color: white; font-size: 3em; text-shadow: 2px 2px 4px rgba(0,0,0,0.8); font-family: Arial, sans-serif;">
+      NA'VI GRAMMAR PARSER
+    </h1>
+    <p style="color: #E1FF00; font-size: 1.5em; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);">
+      Oel ngati kameie
+    </p>
+  </div>
+</div>
 
-<br>
-
-<img src="https://i.pinimg.com/736x/9c/3f/6b/9c3f6b16211b7035dac421960104c46b.jpg" alt="Na'vi Language" width="600">
-
-
+</div>
 
 
