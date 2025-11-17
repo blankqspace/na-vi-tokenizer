@@ -17,8 +17,10 @@
 ## :open_file_folder: Installation
 
 ```bash
-git clone https://github.com/your-username/navi-grammar-parser.git
-cd navi-grammar-parser
+git clone https://github.com/your-username/navi-parser.git
+cd navi-parser
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
 ```
 
 ## Basic Usage 
