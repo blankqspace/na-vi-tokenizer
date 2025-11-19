@@ -1,0 +1,4 @@
+spacy>=3.5.0,<4.0.0           # Linguistic analysis (optional)
+matplotlib>=3.5.0,<4.0.0      # Visualization
+networkx>=2.8.0,<3.0.0        # Graph processing for dependency trees
+numpy>=1.21.0,<2.0.0          # Numerical computations
