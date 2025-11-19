@@ -298,7 +298,7 @@ class NaviWordFactory:
         # Default to noun if no classifier matches
         return NaviNoun(word, position, case="subjective", number="singular")
 
-# ontext-aware word factory that considers surrounding words
+# Context-aware word factory that considers surrounding words
 class ContextAwareWordFactory(NaviWordFactory):
     
     def create_word_from_context(self, context: WordClassificationContext) -> NaviWord:
@@ -317,4 +317,5 @@ class ContextAwareWordFactory(NaviWordFactory):
         
         # Use parent factory for general classification
         return self.create_word(word, position)
+
 
