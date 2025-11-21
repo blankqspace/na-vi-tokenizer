@@ -8,7 +8,7 @@
 
 ## :page_facing_up: Features
 
-- **Linguistic accuracy**: based on (dict-navi.com)[https://dict-navi.com] data 
+- **Linguistic accuracy**: based on [dict-navi.com](https://dict-navi.com) data 
 - **API Integration:** Fetches word data from Navi dictionary API
 - **Data Visualization**: Creates POS distribution pie charts
 - **Modular Architecture**: Clean separation of concerns between API, visualization, and analysis
